@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 3rd Year Computer Science Student with a genuine interest in AI and Deep Learning.<br><br>💻 Strong grasp of Python ,JavaScript and C, actively applying these in data structures and coding challenges.<br><br>🚀 Currently exploring Computer Vision (CNNs) through academic research projects and seeking internship opportunities.
+🎓 3rd Year Computer Science Student with a genuine interest in AI and Deep Learning.<br><br>💻 Strong grasp of Python ,JavaScript and C, actively applying these in data structures and coding challenges.<br><br>🚀 Currently exploring Image Dehazing(CNNs) through academic research projects and seeking internship opportunities.
 
 
 ## 🌐 Socials:

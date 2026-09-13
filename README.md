@@ -5,7 +5,7 @@
   &nbsp;
   <a href="mailto:akshayaththam@gmail.com"><img src="./assets/badge-email.svg" alt="Email"/></a>
   &nbsp;
-  <a href="https://leetcode.com/u/Akshay-S-31/"><img src="./assets/badge-leetcode.svg" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/Akshay_S31/"><img src="./assets/badge-leetcode.svg" alt="LeetCode"/></a>
   &nbsp;
   <a href="https://github.com/Akshay-S-31/Akshay-S-31/blob/main/assets/Akshay_S_Resume.pdf"><img src="./assets/badge-resume.svg" alt="Résumé"/></a>
 </p>

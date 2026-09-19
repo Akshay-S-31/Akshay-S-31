@@ -16,7 +16,7 @@
 **CSE (Honors)** at TKM College of Engineering, Kerala · graduating **May 2027**
 Alappuzha, IN
 
-Deep learning research and Java backends, in parallel. Chasing the intersection: ML systems that actually ship and stay up. Currently building **LUCID** — a semi-supervised dehazing framework that resolved a variance deadlock in its own architecture and beat baselines by **+2.88 dB PSNR** with an industry-competitive **FADE score of 0.7239**.
+Deep learning by day, Java backends by night, DSA in the cracks between. Currently poking at semi-supervised dehazing with LUCID and figuring out what "production ML" actually means.
 
 ![](./assets/divider-experience.svg)
 

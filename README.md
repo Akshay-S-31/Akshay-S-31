@@ -1,13 +1,13 @@
 ![Akshay S](./assets/hero-banner.svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshay-s31"><img src="./assets/badge-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/akshay-s31"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" height="36"/></a>
   &nbsp;
-  <a href="mailto:akshayaththam@gmail.com"><img src="./assets/badge-email.svg" alt="Email"/></a>
+  <a href="mailto:akshayaththam@gmail.com"><img src="./assets/badge-email.svg" alt="Email" height="36"/></a>
   &nbsp;
-  <a href="https://leetcode.com/u/Akshay_S31/"><img src="./assets/badge-leetcode.svg" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/Akshay_S31/"><img src="./assets/badge-leetcode.svg" alt="LeetCode" height="36"/></a>
   &nbsp;
-  <a href="https://github.com/Akshay-S-31/Akshay-S-31/blob/main/assets/Akshay_S_Resume.pdf"><img src="./assets/badge-resume.svg" alt="Résumé"/></a>
+  <a href="https://github.com/Akshay-S-31/Akshay-S-31/blob/main/assets/Akshay_S_Resume.pdf"><img src="./assets/badge-resume.svg" alt="Résumé" height="36"/></a>
 </p>
 
 ![](./assets/divider-about.svg)
